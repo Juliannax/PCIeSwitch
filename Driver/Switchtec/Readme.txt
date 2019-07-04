@@ -32,6 +32,9 @@ User Guide:
    This has been set in the Makefile, you don't need to execute this script separately.
 6. If your kernel version is 4.14.***, you can run "make 4.14_clean" to clean the built files and unload switchtec and NTB related drivers.
    
+Notes: 
+1. These scripts are suitable for CentOS7.x system. If you want to use them on other OS versions, you may do some changes.
+
 Changes:
 None.
 
